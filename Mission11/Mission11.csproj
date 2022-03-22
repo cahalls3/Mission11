@@ -25,6 +25,7 @@
     <None Remove="Views\Shared\Components\Categories\" />
     <None Remove="Migrations\AppIdentityDB\" />
     <None Remove="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
+    <None Remove="Views\Account\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Components\" />
@@ -46,6 +47,7 @@
     <Folder Include="wwwroot\lib\css\" />
     <Folder Include="wwwroot\lib\js\" />
     <Folder Include="Migrations\AppIdentityDB\" />
+    <Folder Include="Views\Account\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

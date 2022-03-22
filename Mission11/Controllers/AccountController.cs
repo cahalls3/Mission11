@@ -42,7 +42,7 @@ namespace Mission11.Controllers
                 }
             }
 
-            ModelState.AddModelError("", "Invalid name or password");
+            ModelState.AddModelError("", "Invalid username or password");
             return View(loginModel);
 
         }
