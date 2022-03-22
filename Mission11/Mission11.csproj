@@ -11,6 +11,18 @@
     <None Remove="Models\" />
     <None Remove="Pages\" />
     <None Remove="Views\" />
+    <None Remove="Microsoft.EntityFrameworkCore" />
+    <None Remove="Microsoft.EntityFrameworkCore.Design" />
+    <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+    <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
+    <None Remove="Models\ViewModels\" />
+    <None Remove="Pages\Admin\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Views\Purchase\" />
+    <None Remove="Views\Shared\" />
+    <None Remove="Views\Shared\Component\" />
+    <None Remove="Views\Shared\Components\BasketSummary\" />
+    <None Remove="Views\Shared\Components\Categories\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Components\" />
@@ -20,8 +32,34 @@
     <Folder Include="Pages\" />
     <Folder Include="Views\" />
     <Folder Include="wwwroot\" />
+    <Folder Include="Models\ViewModels\" />
+    <Folder Include="Pages\Admin\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Purchase\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\BasketSummary\" />
+    <Folder Include="Views\Shared\Components\Categories\" />
+    <Folder Include="wwwroot\lib\" />
+    <Folder Include="wwwroot\lib\css\" />
+    <Folder Include="wwwroot\lib\js\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\lib\" />
+    <Content Remove="wwwroot\lib\css\" />
+    <Content Remove="wwwroot\lib\js\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.22">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.22">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.22" />
   </ItemGroup>
 </Project>
