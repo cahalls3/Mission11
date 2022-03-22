@@ -1,22 +1,28 @@
 ﻿<Properties StartupConfiguration="{FC628B99-C94B-4481-8828-D46418E129A0}|Default">
-  <MonoDevelop.Ide.ItemProperties.Mission11 FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission11/Pages/Admin/AdminLayout.razor">
+  <MonoDevelop.Ide.ItemProperties.Mission11 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission11/Views/Shared/_Layout.cshtml">
     <Files>
       <File FileName="Mission11/Pages/Admin/AdminLayout.razor" Line="1" Column="1" />
+      <File FileName="Mission11/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission11" expanded="True">
             <Node name="Mission11" expanded="True">
-              <Node name="Controllers" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="AdminLayout.razor" selected="True" />
-                </Node>
+                <Node name="Admin" expanded="True" />
+                <Node name="Purchase.cshtml" expanded="True" />
               </Node>
               <Node name="Views" expanded="True">
-                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="BasketSummary" expanded="True" />
+                    <Node name="Categories" expanded="True" />
+                  </Node>
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

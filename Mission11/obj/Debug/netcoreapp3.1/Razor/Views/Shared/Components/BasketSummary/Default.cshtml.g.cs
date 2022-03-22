@@ -34,7 +34,7 @@ using Mission11.Infrastructure;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b99e435b5ece14b8b86bbeb49e790d72b16f6a5b", @"/Views/Shared/Components/BasketSummary/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e36739852f652cc02c3ab41f89beca1338e95ac9", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b212d7ff1f6842045fe003195d54b183146e4375", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_BasketSummary_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Basket>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("btn btn-sm btn-secondary navbar-btn"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

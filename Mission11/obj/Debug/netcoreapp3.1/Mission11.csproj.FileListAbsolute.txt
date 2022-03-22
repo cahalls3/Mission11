@@ -1,6 +1,5 @@
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/Mission11
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/Mission11.deps.json
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/Mission11.runtimeconfig.json
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/Mission11.runtimeconfig.dev.json
@@ -106,3 +105,4 @@
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
 /Users/carsonhalls/Documents/GitHub/Mission11/Mission11/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/carsonhalls/Documents/GitHub/Mission11/Mission11/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
