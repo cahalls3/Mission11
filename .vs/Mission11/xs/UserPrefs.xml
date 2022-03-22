@@ -6,7 +6,8 @@
         <State name="__root__">
           <Node name="Mission11" expanded="True">
             <Node name="Mission11" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>

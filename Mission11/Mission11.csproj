@@ -23,6 +23,8 @@
     <None Remove="Views\Shared\Component\" />
     <None Remove="Views\Shared\Components\BasketSummary\" />
     <None Remove="Views\Shared\Components\Categories\" />
+    <None Remove="Migrations\AppIdentityDB\" />
+    <None Remove="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Components\" />
@@ -43,6 +45,7 @@
     <Folder Include="wwwroot\lib\" />
     <Folder Include="wwwroot\lib\css\" />
     <Folder Include="wwwroot\lib\js\" />
+    <Folder Include="Migrations\AppIdentityDB\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
@@ -61,5 +64,6 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.22" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.22" />
   </ItemGroup>
 </Project>

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UM5zsvVs2FOzW7fa1YS4bUjbenZJ6uCtd7wIw2hjiEnX6zSjltFEntaks26njc93Tgv3pkaC27sOg0idWVewdA==",
+  "dgSpecHash": "n0O7LzGzVnQNUs/X7Y/kf5ab2AKGv7dTrpaMXl9a3jgw9uoEO/i06y6JnLfJGV41Kp8/GxK1/9kICxtBZv4GBQ==",
   "success": true,
   "projectFilePath": "/Users/carsonhalls/Documents/GitHub/Mission11/Mission11/Mission11.csproj",
   "expectedPackageFiles": [
+    "/Users/carsonhalls/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.22/microsoft.aspnetcore.cryptography.internal.3.1.22.nupkg.sha512",
+    "/Users/carsonhalls/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.22/microsoft.aspnetcore.cryptography.keyderivation.3.1.22.nupkg.sha512",
+    "/Users/carsonhalls/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/3.1.22/microsoft.aspnetcore.identity.entityframeworkcore.3.1.22.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -25,6 +28,8 @@
     "/Users/carsonhalls/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.22/microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.22/microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.extensions.dependencymodel/3.1.6/microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "/Users/carsonhalls/.nuget/packages/microsoft.extensions.identity.core/3.1.22/microsoft.extensions.identity.core.3.1.22.nupkg.sha512",
+    "/Users/carsonhalls/.nuget/packages/microsoft.extensions.identity.stores/3.1.22/microsoft.extensions.identity.stores.3.1.22.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.extensions.logging/3.1.22/microsoft.extensions.logging.3.1.22.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.22/microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
     "/Users/carsonhalls/.nuget/packages/microsoft.extensions.options/3.1.22/microsoft.extensions.options.3.1.22.nupkg.sha512",
