@@ -2,8 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Mission11 PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Mission11/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="Mission11/Pages/Admin/AdminLayout.razor" Line="1" Column="1" />
-      <File FileName="Mission11/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Mission11/Views/Shared/_Layout.cshtml" Line="37" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
